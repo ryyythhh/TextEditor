@@ -22,7 +22,6 @@ public class TextEditor extends JFrame implements ActionListener {
         this.setVisible(true);
     }
 
-    // This method is REQUIRED to fix the red error on line 6
     @Override
     public void actionPerformed(ActionEvent e) {
         // You can add button logic here later
